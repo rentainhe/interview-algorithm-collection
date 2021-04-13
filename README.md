@@ -1,6 +1,9 @@
 # interview-algorithm-collection
 A collection of interview algorithm problems and solutions
 
+## Good notes online
+- [__python实现二叉树的遍历以及基本操作__](https://www.cnblogs.com/anzhengyu/p/11083568.html)
+
 ## Content
 |question|leetcode-number|answer|method|
 |:---:|:---:|:---:|:---:|
