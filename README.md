@@ -26,7 +26,12 @@ A collection of interview algorithm problems and solutions
 | __删除链表的倒数第N个结点__ | [__leetcode-19__](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/) | [__remove_node.py__](https://github.com/rentainhe/interview-algorithm-collection/blob/master/interview-real/remove_node.py)| __双指针-快慢指针-使用dummy head小技巧__ |
 | __最长回文子串__ | [__leetcode-5__](https://leetcode-cn.com/problems/longest-palindromic-substring/)| [__longest_palindromic_substring.py__](https://github.com/rentainhe/interview-algorithm-collection/blob/master/interview-real/longest_palindromic_substring.py)| __动态规划或者中心扩散__ |
 | __最接近的三数之和__ | [__leetcode-16__](https://leetcode-cn.com/problems/3sum-closest/)|[__3sum_closest.py__](https://github.com/rentainhe/interview-algorithm-collection/blob/master/interview-real/3sum_closest.py) <br> [__leetcode-优质题解__](https://leetcode-cn.com/problems/path-sum-ii/solution/tao-mo-ban-er-cha-shu-wen-ti-de-dfs-he-bfs-jie-fa-/)| __数组排序-双指针__ |
-| __路径总和II__ | [__leetcode-113__](https://leetcode-cn.com/problems/path-sum-ii/)|[__path_sum_ii.py__]()| __BFS算法, DFS算法, 注意题目要求__ |
-| __从上到下打印二叉树__ | [__剑指 Offer 32__](https://leetcode-cn.com/problems/cong-shang-dao-xia-da-yin-er-cha-shu-lcof/)| [__print_tree.py__]() | __BFS算法__ |
-| __全排列__ | [__leetcode-46__](https://leetcode-cn.com/problems/permutations/) | [__permutations.py__]() | __回溯法__ |
+| __路径总和II__ | [__leetcode-113__](https://leetcode-cn.com/problems/path-sum-ii/)|[__path_sum_ii.py__](https://github.com/rentainhe/interview-algorithm-collection/blob/master/interview-real/path_sum_ii.py)| __BFS算法, DFS算法, 注意题目要求__ |
+| __从上到下打印二叉树__ | [__剑指 Offer 32__](https://leetcode-cn.com/problems/cong-shang-dao-xia-da-yin-er-cha-shu-lcof/)| [__print_tree.py__](https://github.com/rentainhe/interview-algorithm-collection/blob/master/interview-real/print_tree.py) | __BFS算法__ |
+| __全排列__ | [__leetcode-46__](https://leetcode-cn.com/problems/permutations/) | [__Permutations.py__](https://github.com/rentainhe/interview-algorithm-collection/blob/master/interview-real/backtrack/permutations.py) | __回溯法__ |
+| __全排列II__ | [__leetcode-47__](https://leetcode-cn.com/problems/permutations-ii/) | [__Permutations_II.py__]() | __回溯法__ |
+| __组合总和__ | [__leetcode-39__](https://leetcode-cn.com/problems/combination-sum/) | [__Combination_Sum.py__]() | __回溯法__ |
+
+
+
 
