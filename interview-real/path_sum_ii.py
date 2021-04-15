@@ -37,7 +37,7 @@ class SolutionV2:  # DFS
     def dfs(self, root, sum, res, path):
         if not root:  # 空节点, 不做任何处理
             return
-        if not root.left and not root.right:  # 遇到叶子节点
+        if not root.left and not root.right:  # 遇到叶子节点, 判断求和是否为 sum
             if sum + root.val == self.sum:
                 res.append(path+[root.val])
         self.dfs(root.left, sum + root.val, res, path + [root.val])  # 左子树
