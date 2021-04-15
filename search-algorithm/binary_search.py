@@ -11,7 +11,8 @@ def binary_search(nums, target):
 
     # 找到 target 的时候 left可能等于right
     while left <= right:
-        mid = (left + right) // 2
+        mid = left + (right - left) // 2
+        # mid = (left + right) // 2
 
         # 判断 target 是否等于中间的值
         if nums[mid] == target:
