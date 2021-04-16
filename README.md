@@ -29,9 +29,12 @@ A collection of interview algorithm problems and solutions
 | __路径总和II__ | [__leetcode-113__](https://leetcode-cn.com/problems/path-sum-ii/)|[__path_sum_ii.py__](https://github.com/rentainhe/interview-algorithm-collection/blob/master/interview-real/path_sum_ii.py)| __BFS算法, DFS算法, 注意题目要求__ |
 | __从上到下打印二叉树__ | [__剑指 Offer 32__](https://leetcode-cn.com/problems/cong-shang-dao-xia-da-yin-er-cha-shu-lcof/)| [__print_tree.py__](https://github.com/rentainhe/interview-algorithm-collection/blob/master/interview-real/print_tree.py) | __BFS算法__ |
 | __全排列__ | [__leetcode-46__](https://leetcode-cn.com/problems/permutations/) | [__Permutations.py__](https://github.com/rentainhe/interview-algorithm-collection/blob/master/interview-real/backtrack/permutations.py) | __回溯法__ |
-| __全排列II__ | [__leetcode-47__](https://leetcode-cn.com/problems/permutations-ii/) | [__Permutations_II.py__]() | __回溯法__ |
-| __组合总和__ | [__leetcode-39__](https://leetcode-cn.com/problems/combination-sum/) | [__Combination_Sum.py__]() | __回溯法__ |
-
+| __全排列II__ | [__leetcode-47__](https://leetcode-cn.com/problems/permutations-ii/) | [__Permutations_II.py__](https://github.com/rentainhe/interview-algorithm-collection/blob/master/interview-real/backtrack/Permutations_II.py) | __回溯法__ |
+| __组合总和__ | [__leetcode-39__](https://leetcode-cn.com/problems/combination-sum/) | [__Combination_Sum.py__](https://github.com/rentainhe/interview-algorithm-collection/blob/master/interview-real/backtrack/Combination_Sum.py) | __回溯法__ |
+| __组合总和II__ | [__leetcode-40__](https://leetcode-cn.com/problems/combination-sum-ii/) | [__Combination_Sum_II__](https://github.com/rentainhe/interview-algorithm-collection/blob/master/interview-real/backtrack/Combination_Sum_II.py) | __回溯法__ |
+| __矩阵中的路径__ | [__剑指 Offer 12__](https://leetcode-cn.com/problems/ju-zhen-zhong-de-lu-jing-lcof/) | [__Exist_path_in_matrix.py__](https://github.com/rentainhe/interview-algorithm-collection/blob/master/interview-real/backtrack/Exist_path_in_matrix.py) | __DFS回溯, 注意剪枝条件__ |
+| __从前序与中序遍历序列构造二叉树__ | [__leetcode-105__](https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | [__build_Tree_From_Preorder_And_Inorder.py__](https://github.com/rentainhe/interview-algorithm-collection/blob/master/interview-real/binary_tree/build_Tree_From_Preorder_And_Inorder.py) | __迭代递归__ |
+| __从中序和后序遍历序列构造二叉树__ | [__leetcode-106__](https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | [__build_Tree_From_Inorder_And_Postorder.py__](https://github.com/rentainhe/interview-algorithm-collection/blob/master/interview-real/binary_tree/build_Tree_From_Inorder_And_Postorder.py) | __迭代递归__ |
 
 
 
