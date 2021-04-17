@@ -1,2 +1,3 @@
-values = [0,1,2]
-print(values.index(1))
+grid = [[0, 1, 2], [0, 1, 2]]
+dp = [[0] * len(grid[0]) for _ in range(len(grid))]
+print(dp)

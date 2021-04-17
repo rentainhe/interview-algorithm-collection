@@ -33,9 +33,10 @@ A collection of interview algorithm problems and solutions
 | __组合总和__ | [__leetcode-39__](https://leetcode-cn.com/problems/combination-sum/) | [__Combination_Sum.py__](https://github.com/rentainhe/interview-algorithm-collection/blob/master/interview-real/backtrack/Combination_Sum.py) | __回溯法__ |
 | __组合总和II__ | [__leetcode-40__](https://leetcode-cn.com/problems/combination-sum-ii/) | [__Combination_Sum_II__](https://github.com/rentainhe/interview-algorithm-collection/blob/master/interview-real/backtrack/Combination_Sum_II.py) | __回溯法__ |
 | __矩阵中的路径__ | [__剑指 Offer 12__](https://leetcode-cn.com/problems/ju-zhen-zhong-de-lu-jing-lcof/) | [__Exist_path_in_matrix.py__](https://github.com/rentainhe/interview-algorithm-collection/blob/master/interview-real/backtrack/Exist_path_in_matrix.py) | __DFS回溯, 注意剪枝条件__ |
-| __从前序与中序遍历序列构造二叉树__ | [__leetcode-105__](https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | [__build_Tree_From_Preorder_And_Inorder.py__](https://github.com/rentainhe/interview-algorithm-collection/blob/master/interview-real/binary_tree/build_Tree_From_Preorder_And_Inorder.py) | __迭代递归__ |
+| __从前序与中序遍历序列构造二叉树__ | [__leetcode-105__](https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) <br> [__剑指 Offer 07__](https://leetcode-cn.com/problems/zhong-jian-er-cha-shu-lcof/) | [__build_Tree_From_Preorder_And_Inorder.py__](https://github.com/rentainhe/interview-algorithm-collection/blob/master/interview-real/binary_tree/build_Tree_From_Preorder_And_Inorder.py) | __迭代递归__ |
 | __从中序和后序遍历序列构造二叉树__ | [__leetcode-106__](https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | [__build_Tree_From_Inorder_And_Postorder.py__](https://github.com/rentainhe/interview-algorithm-collection/blob/master/interview-real/binary_tree/build_Tree_From_Inorder_And_Postorder.py) | __迭代递归__ |
-
+| __连续子数组的最大和__ | [__剑指 Offer 42__](https://leetcode-cn.com/problems/lian-xu-zi-shu-zu-de-zui-da-he-lcof/) | [__Maximum_Subarray.py__]() | __动态规划__ |
+| __礼物的最大价值__ | [__剑指 Offer 47__](https://leetcode-cn.com/problems/li-wu-de-zui-da-jie-zhi-lcof/) | [__offer-47.py__]() | __动态规划__ |
 
 
 
