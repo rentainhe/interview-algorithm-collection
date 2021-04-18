@@ -1,3 +1,4 @@
-a = [[4,6], [5,3],[3,5]]
-a.sort(key= lambda x:x[1])
-print(a)
+m = 3
+n = 2
+dp = [[0] * n for _ in range(m)]
+print(dp)
