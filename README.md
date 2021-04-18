@@ -40,9 +40,9 @@ A collection of interview algorithm problems and solutions
 | __最长不含重复字符的子字符串__ | [__剑指 Offer 48__](https://leetcode-cn.com/problems/zui-chang-bu-han-zhong-fu-zi-fu-de-zi-zi-fu-chuan-lcof/) | [__offer-48.py__](https://github.com/rentainhe/interview-algorithm-collection/blob/master/%E5%89%91%E6%8C%87offer/offer-48.py) | __快慢指针__ |
 | __字符串的排列__ | [__剑指 Offer 38__](https://leetcode-cn.com/problems/zi-fu-chuan-de-pai-lie-lcof/) | [__offer-38.py__](https://github.com/rentainhe/interview-algorithm-collection/blob/master/%E5%89%91%E6%8C%87offer/offer-38.py) | __回溯 + 剪枝__ |
 | __二叉搜索树的后序遍历序列__ | [__剑指 Offer 33__](https://leetcode-cn.com/problems/er-cha-sou-suo-shu-de-hou-xu-bian-li-xu-lie-lcof/) | [__offer-33.py__](https://github.com/rentainhe/interview-algorithm-collection/blob/master/%E5%89%91%E6%8C%87offer/offer-33.py) | __递归__ |
-| __数组中出现次数超过一半的数字__ [__剑指 Offer 39__](https://leetcode-cn.com/problems/shu-zu-zhong-chu-xian-ci-shu-chao-guo-yi-ban-de-shu-zi-lcof/) | [__offer-39.py__](https://github.com/rentainhe/interview-algorithm-collection/blob/master/%E5%89%91%E6%8C%87offer/offer-39.py) | __哈希表__ |
+| __数组中出现次数超过一半的数字__| [__剑指 Offer 39__](https://leetcode-cn.com/problems/shu-zu-zhong-chu-xian-ci-shu-chao-guo-yi-ban-de-shu-zi-lcof/) | [__offer-39.py__](https://github.com/rentainhe/interview-algorithm-collection/blob/master/%E5%89%91%E6%8C%87offer/offer-39.py) | __哈希表__ |
 | __前k个高频元素__ | [__leetcode-347__](https://leetcode-cn.com/problems/top-k-frequent-elements/) | [__Top_K_Frequent_elements.py__]() | __构建hashmap, 字典排序__ |
-
+| __合并区间__ | [__leetcode-56__](https://leetcode-cn.com/problems/merge-intervals/) | [__Merge_Intervals.py__]() | __对数组进行排序, 然后按顺序添加__ |
 
 
 
