@@ -1,4 +1,8 @@
-m = 3
-n = 2
-dp = [[0] * n for _ in range(m)]
-print(dp)
+dict1 = dict()
+dict1["name"] = "test_name"
+dict1["age"] = "test_age"
+dict1["money"] = 80
+dict1["girl"] = "China"
+dict1["horse"] = None
+for key, value in dict1.items():
+    print(key, value)

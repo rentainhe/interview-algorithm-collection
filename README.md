@@ -35,6 +35,7 @@ A collection of interview algorithm problems and solutions
 | __矩阵中的路径__ | [__剑指 Offer 12__](https://leetcode-cn.com/problems/ju-zhen-zhong-de-lu-jing-lcof/) | [__Exist_path_in_matrix.py__](https://github.com/rentainhe/interview-algorithm-collection/blob/master/interview-real/backtrack/Exist_path_in_matrix.py) | __DFS回溯, 注意剪枝条件__ |
 | __从前序与中序遍历序列构造二叉树__ | [__leetcode-105__](https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) <br> [__剑指 Offer 07__](https://leetcode-cn.com/problems/zhong-jian-er-cha-shu-lcof/) | [__build_Tree_From_Preorder_And_Inorder.py__](https://github.com/rentainhe/interview-algorithm-collection/blob/master/interview-real/binary_tree/build_Tree_From_Preorder_And_Inorder.py) | __迭代递归__ |
 | __从中序和后序遍历序列构造二叉树__ | [__leetcode-106__](https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | [__build_Tree_From_Inorder_And_Postorder.py__](https://github.com/rentainhe/interview-algorithm-collection/blob/master/interview-real/binary_tree/build_Tree_From_Inorder_And_Postorder.py) | __迭代递归__ |
+| __从前序和后序遍历序列构造二叉树__ | [__leetcode-889__](https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/) | [__build_Tree_From_Preorder_And_Postorder.py__](https://github.com/rentainhe/interview-algorithm-collection/blob/master/interview-real/binary_tree/build_Tree_From_Preorder_And_Postorder.py) | __迭代递归__ |
 | __连续子数组的最大和__ | [__剑指 Offer 42__](https://leetcode-cn.com/problems/lian-xu-zi-shu-zu-de-zui-da-he-lcof/) | [__Maximum_Subarray.py__](https://github.com/rentainhe/interview-algorithm-collection/blob/master/interview-real/Maximum_Subarray.py) | __动态规划__ |
 | __礼物的最大价值__ | [__剑指 Offer 47__](https://leetcode-cn.com/problems/li-wu-de-zui-da-jie-zhi-lcof/) | [__offer-47.py__](https://github.com/rentainhe/interview-algorithm-collection/blob/master/%E5%89%91%E6%8C%87offer/offer-47.py) | __动态规划__ |
 | __最长不含重复字符的子字符串__ | [__剑指 Offer 48__](https://leetcode-cn.com/problems/zui-chang-bu-han-zhong-fu-zi-fu-de-zi-zi-fu-chuan-lcof/) | [__offer-48.py__](https://github.com/rentainhe/interview-algorithm-collection/blob/master/%E5%89%91%E6%8C%87offer/offer-48.py) | __快慢指针__ |
@@ -45,6 +46,7 @@ A collection of interview algorithm problems and solutions
 | __合并区间__ | [__leetcode-56__](https://leetcode-cn.com/problems/merge-intervals/) | [__Merge_Intervals.py__](https://github.com/rentainhe/interview-algorithm-collection/blob/master/interview-real/Merge_Intervals.py) | __对数组进行排序, 然后按顺序添加__ |
 | __不同路径__ | [__leetcode-62__](https://leetcode-cn.com/problems/unique-paths/) | [__Unique_Paths__](https://github.com/rentainhe/interview-algorithm-collection/blob/master/interview-real/dp/Unique_Paths.py) | __动态规划__ |
 | __不同路径 II__ | [__leetcode-63__](https://leetcode-cn.com/problems/unique-paths-ii/) | [__Unique_Paths_II__](https://github.com/rentainhe/interview-algorithm-collection/blob/master/interview-real/dp/Unique_Paths_II.py) | __动态规划, 注意和上题初始化的不同__ |
+| __最长回文子串__ | [__leetcode-5__](https://leetcode-cn.com/problems/longest-palindromic-substring/) | 
 
 
 
