@@ -13,7 +13,7 @@ A collection of interview algorithm problems and solutions
 |code|algorithm|method|
 |:---:|:---:|:---:|
 |[__binary search__](https://github.com/rentainhe/interview-algorithm-collection/blob/master/search-algorithm/binary_search.py)|__查找算法__|__二分查找__|
-
+|[__sort algorithm__](https://github.com/rentainhe/interview-algorithm-collection/tree/master/sort-algorithm)|__经典排序算法__|__快速排序, 冒泡排序, 插入排序, 选择排序__|
 
 
 ## Content
@@ -46,7 +46,10 @@ A collection of interview algorithm problems and solutions
 | __合并区间__ | [__leetcode-56__](https://leetcode-cn.com/problems/merge-intervals/) | [__Merge_Intervals.py__](https://github.com/rentainhe/interview-algorithm-collection/blob/master/interview-real/Merge_Intervals.py) | __对数组进行排序, 然后按顺序添加__ |
 | __不同路径__ | [__leetcode-62__](https://leetcode-cn.com/problems/unique-paths/) | [__Unique_Paths__](https://github.com/rentainhe/interview-algorithm-collection/blob/master/interview-real/dp/Unique_Paths.py) | __动态规划__ |
 | __不同路径 II__ | [__leetcode-63__](https://leetcode-cn.com/problems/unique-paths-ii/) | [__Unique_Paths_II__](https://github.com/rentainhe/interview-algorithm-collection/blob/master/interview-real/dp/Unique_Paths_II.py) | __动态规划, 注意和上题初始化的不同__ |
-| __最长回文子串__ | [__leetcode-5__](https://leetcode-cn.com/problems/longest-palindromic-substring/) | 
+| __最长回文子串__ | [__leetcode-5__](https://leetcode-cn.com/problems/longest-palindromic-substring/) | [__longest_palindromic_substring.py__](https://github.com/rentainhe/interview-algorithm-collection/blob/master/interview-real/dp/longest_palindromic_substring.py) | __动态规划__ |
+
+
+
 
 
 

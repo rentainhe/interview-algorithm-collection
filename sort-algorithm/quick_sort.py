@@ -33,6 +33,9 @@ def quick_sort2(nums, i, j):
         while i<j and nums[i] <= pivot:
             i += 1
         nums[i] = nums[j]
+    nums[j] = pivot
+    quick_sort2(nums, low, i-1)
+    quick_sort2(nums, i+1, high)
 
 
 if __name__ == "__main__":

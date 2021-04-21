@@ -1,8 +1,12 @@
-dict1 = dict()
-dict1["name"] = "test_name"
-dict1["age"] = "test_age"
-dict1["money"] = 80
-dict1["girl"] = "China"
-dict1["horse"] = None
-for key, value in dict1.items():
-    print(key, value)
+from typing import List
+class Solution:
+    def spiralOrder(self, matrix: List[List[int]]) -> List[int]:
+        res = []
+        while matrix:
+            res += matrix.pop(0)
+            matrix = list(zip(*matrix))[::-1]
+        return res
+
+matrix = [[1,2,3],[4,5,6],[7,8,9]]
+print(*matrix)
+print(list(zip(*matrix)))
