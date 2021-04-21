@@ -48,7 +48,7 @@ A collection of interview algorithm problems and solutions
 | __不同路径__ | [__leetcode-62__](https://leetcode-cn.com/problems/unique-paths/) | [__Unique_Paths__](https://github.com/rentainhe/interview-algorithm-collection/blob/master/interview-real/dp/Unique_Paths.py) | __动态规划__ |
 | __不同路径 II__ | [__leetcode-63__](https://leetcode-cn.com/problems/unique-paths-ii/) | [__Unique_Paths_II__](https://github.com/rentainhe/interview-algorithm-collection/blob/master/interview-real/dp/Unique_Paths_II.py) | __动态规划, 注意和上题初始化的不同__ |
 | __最长回文子串__ | [__leetcode-5__](https://leetcode-cn.com/problems/longest-palindromic-substring/) | [__longest_palindromic_substring.py__](https://github.com/rentainhe/interview-algorithm-collection/blob/master/interview-real/dp/longest_palindromic_substring.py) | __动态规划__ |
-
+| __最长递增子序列__ | [__leetcode-300__](https://leetcode-cn.com/problems/longest-increasing-subsequence/) | [__Longest_Increasing_Subsequence.py__](https://github.com/rentainhe/interview-algorithm-collection/blob/master/interview-real/dp/Longest_Increasing_Subsequence.py) | __动态规划__ |
 
 
 
