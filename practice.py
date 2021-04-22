@@ -1,12 +1,29 @@
-from typing import List
-class Solution:
-    def spiralOrder(self, matrix: List[List[int]]) -> List[int]:
-        res = []
-        while matrix:
-            res += matrix.pop(0)
-            matrix = list(zip(*matrix))[::-1]
-        return res
+import torch
+import torch.nn as nn
+from torchvision.models import vgg16
 
-matrix = [[1,2,3],[4,5,6],[7,8,9]]
-print(*matrix)
-print(list(zip(*matrix)))
+
+# def decom_vgg16():
+#     # the 30th layer of features is relu of conv5_3
+#     model = vgg16(pretrained=False)
+#     use_drop = True
+#     features = list(model.features)[:30]
+#     classifier = model.classifier
+#
+#     classifier = list(classifier)
+#     del classifier[6]
+#     if not use_drop:
+#         del classifier[5]
+#         del classifier[2]
+#     classifier = nn.Sequential(*classifier)
+#
+#     # freeze top4 conv
+#     for layer in features[:10]:
+#         for p in layer.parameters():
+#             p.requires_grad = False
+#
+#     return nn.Sequential(*features), classifier
+
+model = vgg16(pretrained=False)
+features = list(model.features)
+print(features)
