@@ -49,7 +49,8 @@ A collection of interview algorithm problems and solutions
 | __不同路径 II__ | [__leetcode-63__](https://leetcode-cn.com/problems/unique-paths-ii/) | [__Unique_Paths_II__](https://github.com/rentainhe/interview-algorithm-collection/blob/master/interview-real/dp/Unique_Paths_II.py) | __动态规划, 注意和上题初始化的不同__ |
 | __最长回文子串__ | [__leetcode-5__](https://leetcode-cn.com/problems/longest-palindromic-substring/) | [__longest_palindromic_substring.py__](https://github.com/rentainhe/interview-algorithm-collection/blob/master/interview-real/dp/longest_palindromic_substring.py) | __动态规划__ |
 | __最长递增子序列__ | [__leetcode-300__](https://leetcode-cn.com/problems/longest-increasing-subsequence/) | [__Longest_Increasing_Subsequence.py__](https://github.com/rentainhe/interview-algorithm-collection/blob/master/interview-real/dp/Longest_Increasing_Subsequence.py) | __动态规划__ |
-| __迷宫问题_II(图森)__ | [__leetcode-45__](https://leetcode-cn.com/problems/jump-game-ii/) | [__
+| __迷宫问题_II(图森)__ | [__leetcode-45__](https://leetcode-cn.com/problems/jump-game-ii/) | [__跳跃游戏_II__](https://github.com/rentainhe/interview-algorithm-collection/blob/master/TuSimple/%E8%B7%B3%E8%B7%83%E6%B8%B8%E6%88%8F_II.py) | __动态规划__ |
+| __迷宫问题_III(图森)__ | [__leetcode-1306__](https://leetcode-cn.com/problems/jump-game-iii/) | [__跳跃游戏_III__](https://github.com/rentainhe/interview-algorithm-collection/blob/master/TuSimple/%E8%B7%B3%E8%B7%83%E6%B8%B8%E6%88%8F_III.py) | __DFS__ |
 
 
 
